@@ -1,0 +1,9 @@
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\bin\Debug\LIFE!.exe.config
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE_.Form1.resources
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE_.Properties.Resources.resources
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE!.csproj.GenerateResource.Cache
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\bin\Debug\LIFE!.exe
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\bin\Debug\LIFE!.pdb
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE!.exe
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE!.pdb
+C:\Users\Jaden\Desktop\CIS 310\LIFE!\LIFE!\obj\Debug\LIFE!.csprojResolveAssemblyReference.cache
