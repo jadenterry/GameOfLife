@@ -7,3 +7,4 @@ The Project was created in a C# Visual Programming class that I took at my Unive
 - Upload shapes
 - Pre-built shapes
 
+![Alt text](/./LIFE!/Life Report Gif.gif?raw=true "Optional Title")
