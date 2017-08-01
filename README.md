@@ -6,5 +6,6 @@ The Project was created in a C# Visual Programming class that I took at my Unive
 - Fast/Slow
 - Upload shapes
 - Pre-built shapes
+- Mirror x and y axis
 
 ![life report gif](https://user-images.githubusercontent.com/12435168/28842261-316f7b2e-76ba-11e7-97a2-8e8283817c62.gif)
